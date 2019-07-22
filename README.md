@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # rtlib
 
 ## Project setup
@@ -32,3 +33,7 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# rtLib
+个人前端组件库
+>>>>>>> e6be7ff00a39a7d346230cc6e11b34a5dbc865d4

@@ -4,6 +4,10 @@
   "version": "1.0.1",
   "private": false,
   "main": "lib/rt-ui.umd.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perfect91/rtLib.git"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
